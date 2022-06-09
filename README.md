@@ -1,0 +1,1 @@
+# rhocp4-gitops-bootstrap
